@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/105895982/221367274-27642fb1-ec38-4d0c-8539-2400b7efb8d7.png)
-### Hi there 👋
+### Hi there, 👋🏽 I'm a full stack software engineer. Feel free to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development!
 
 <!--
 **AaronS16/AaronS16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
