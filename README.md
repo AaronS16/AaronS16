@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/105895982/221367274-27642fb1-ec38-4d0c-8539-2400b7efb8d7.png) 
+![image](https://github.com/AaronS16/AaronS16/blob/main/image.png?raw=true) 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+Aaron+Sotelo;Software+Engineer">
 <br>
