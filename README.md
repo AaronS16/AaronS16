@@ -38,14 +38,14 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
     <td width="50%" valign="top">
       <h3 align="center">React Task Tracker</h3>
         <br />
-        <a target="_blank" href="[http://www.surevoter.com](https://task-tracker-react-flax.vercel.app/)">
+        <a target="_blank" href="https://task-tracker-react-flax.vercel.app/">
             <img src="https://user-images.githubusercontent.com/105895982/230734111-e61e36b7-67ec-4a3c-8234-536716a5531d.png" width="100%" alt="React Task Tracker"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://www.surevoter.com" target="_blank">
-   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
+  <a href="https://task-tracker-react-flax.vercel.app/" target="_blank">
+   <img src="https://user-images.githubusercontent.com/105895982/230734111-e61e36b7-67ec-4a3c-8234-536716a5531d.png" height=25>
   </a>  
       </p>
         <p><strong>HTML, CSS3, Javascript, Typescript, Handlebars, React, Redux, Node.js, AWS, DynamoDB </strong> - A cloud based voting system to improve voter engagement, save time, create a better voter experience, and guarantee election integrity.</p>
