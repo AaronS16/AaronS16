@@ -43,7 +43,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
         </a>
         <br />
         <p align="center">
-  <a href="https://github.com/zurichat/zc_main](https://github.com/AaronS16/task-tracker-react" target="_blank">
+  <a href="https://github.com/AaronS16/task-tracker-react" target="_blank">
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
   <a href="https://task-tracker-react-flax.vercel.app/" target="_blank">
