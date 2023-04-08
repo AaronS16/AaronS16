@@ -36,10 +36,10 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Surevoter</h3>
+      <h3 align="center">React Task Tracker</h3>
         <br />
-        <a target="_blank" href="http://www.surevoter.com">
-            <img src="./images/surevoter.gif" width="100%" alt="Sure Voter"/>
+        <a target="_blank" href="[http://www.surevoter.com](https://task-tracker-react-flax.vercel.app/)">
+            <img src="https://user-images.githubusercontent.com/105895982/230734111-e61e36b7-67ec-4a3c-8234-536716a5531d.png" width="100%" alt="React Task Tracker"/>
         </a>
         <br />
         <p align="center">
