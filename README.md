@@ -50,7 +50,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
    <img src="https://img.shields.io/badge/Website-164C78?style=plastic" height=25>
   </a>  
       </p>
-        <p><strong>HTML, CSS3, Javascript, Typescript, Handlebars, React, Redux, Node.js, AWS, DynamoDB </strong> - A cloud based voting system to improve voter engagement, save time, create a better voter experience, and guarantee election integrity.</p>
+        <p><strong>HTML, CSS3, Javascript, React, Node.js, JSX</strong> - A task tracker using React to help keep events organized.
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Zuri Chat</h3>
