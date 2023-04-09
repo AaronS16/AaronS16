@@ -91,22 +91,19 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
         <p><strong>HTML5, CSS3, & Javascript</strong> - The classic card game War.</p>
     </td>
     <td width="50%" valign="top">
-        <h3 align="center">Developer Finder</h3>
+        <h3 align="center">ShareMe Social Media Site</h3>
         <br />
-        <a target="_blank" href="https://github.com/Webmekanic/Developer-finder">
-          <img src="./images/devfinder.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://github.com/AaronS16/socialmedia">
+          <img src="https://user-images.githubusercontent.com/105895982/230781842-93f9123f-a65c-410a-a78e-4ae32997e685.png" width="100%" alt="Matching Cards"/>
         </a>
         <br />
          <p align="center">   
-   <a href="https://github.com/Webmekanic/Developer-finder" target="_blank">
+   <a href="https://github.com/AaronS16/socialmedia" target="_blank">
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="https://devfinder-webmekanic.vercel.app" target="blank">
-   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
-  </a>
       </p>
-        <p><strong>HTML5, HTTP, REST, Vercel, ContextAPIs, Javascript, Tailwind, Daisy Ui </strong>
-            -  A platform that uses GitHub API to fetch user data from the GitHub database and display a user's information.</p>
+        <p><strong>HTML, CSS, EJS, Node, Express, Javascript, Mongo-DB, Passport, Mongoose </strong>
+            -  A social media site to share pictures with friends and family.</p>
     </td>
   </tr>
 </table>
