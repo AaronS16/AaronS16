@@ -55,8 +55,8 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
     <td width="50%" valign="top">
       <h3 align="center">Zuri Chat</h3>
         <br />
-      <a target="_blank" href="https://www.zuri.chat/">
-            <img src="./images/zurichat.gif" width="100%"  alt="Zuri"/>
+      <a target="_blank" href="bs-burgers-api.vercel.app/">
+            <img src="Bob's Burgers](https://user-images.githubusercontent.com/105895982/230776673-85a72f89-deaf-4679-821e-c60adf1db18a.png" width="100%"  alt="Zuri"/>
         </a>
         <br />
         <p align="center">
