@@ -88,7 +88,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
    <img src="https://img.shields.io/badge/Website-164C78?style=plastic" height=25>
   </a> 
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Tic Tac Toe game that determines a winner.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - The classic card game War.</p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">Developer Finder</h3>
