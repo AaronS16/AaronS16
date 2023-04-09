@@ -102,7 +102,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
       </p>
-        <p><strong>HTML, CSS, EJS, Node, Express, Javascript, Mongo-DB, Passport, Mongoose </strong>
+        <p><strong>HTML, CSS3, EJS, Node, Express, Javascript, Mongo-DB, Passport, Mongoose </strong>
             -  A social media site to share pictures with friends and family.</p>
     </td>
   </tr>
