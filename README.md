@@ -53,7 +53,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
         <p><strong>HTML, CSS3, Javascript, React, Node.js, JSX</strong> - A task tracker using React to help keep events organized.
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Zuri Chat</h3>
+      <h3 align="center">Bob's Burger Character Generator</h3>
         <br />
       <a target="_blank" href="https://bobs-burgers-api.vercel.app/">
             <img src="https://user-images.githubusercontent.com/105895982/230776673-85a72f89-deaf-4679-821e-c60adf1db18a.png" width="100%"  alt="Bob's Burgers Site"/>
@@ -74,21 +74,21 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">E-commerce Product Page</h3>
+      <h3 align="center">Tic Tac Toe</h3>
       <br />
-        <a target="_blank" href="https://webmekanic.github.io/Ecommerce-Product-Page/">
-           <img src="./images/productPage.gif" width="100%" alt="Product Page"/>
+        <a target="_blank" href="https://tic-tac-toe-eta-murex.vercel.app/">
+           <img src="https://user-images.githubusercontent.com/105895982/230780784-c9eae039-0ccb-479d-90e5-e7386224c46c.png" width="100%" alt="Tic Tac Toe"/>
         </a>
       <br />
    <p align="center">   
-   <a href="https://github.com/Webmekanic/Ecommerce-Product-Page" target="_blank">
+   <a href="https://github.com/AaronS16/tic-tac-toe" target="_blank">
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="https://webmekanic.github.io/Ecommerce-Product-Page/" target="blank">
-   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
+  <a href="https://tic-tac-toe-eta-murex.vercel.app/" target="blank">
+   <img src="https://img.shields.io/badge/Website-164C78?style=plastic" height=25>
   </a> 
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A responsive E-commerce product page with lightbox gallery and Cart Functionality.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Tic Tac Toe game that determines a winner.</p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">Developer Finder</h3>
