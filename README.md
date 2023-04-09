@@ -76,7 +76,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
     <td width="50%" valign="top">
       <h3 align="center">War Card Game</h3>
       <br />
-        <a target="_blank" href="https://vercel.com/aarons16/war">
+        <a target="_blank" href="https://war-self.vercel.app/">
            <img src="https://user-images.githubusercontent.com/105895982/230781373-3874dded-3668-4bcc-aaa6-b3c7d486a36d.png" width="100%" alt="Tic Tac Toe"/>
         </a>
       <br />
@@ -84,7 +84,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
    <a href="https://github.com/AaronS16/War" target="_blank">
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="https://vercel.com/aarons16/war" target="blank">
+  <a href="https://war-self.vercel.app/" target="blank">
    <img src="https://img.shields.io/badge/Website-164C78?style=plastic" height=25>
   </a> 
       </p>
