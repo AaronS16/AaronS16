@@ -56,19 +56,19 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
       <h3 align="center">Zuri Chat</h3>
         <br />
       <a target="_blank" href="bs-burgers-api.vercel.app/">
-            <img src="Bob's Burgers](https://user-images.githubusercontent.com/105895982/230776673-85a72f89-deaf-4679-821e-c60adf1db18a.png" width="100%"  alt="Zuri"/>
+            <img src="https://user-images.githubusercontent.com/105895982/230776673-85a72f89-deaf-4679-821e-c60adf1db18a.png" width="100%"  alt="Bob's Burgers Site"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/zurichat/zc_main" target="_blank">
+  <a href="https://github.com/AaronS16/bobs-burgers-api" target="_blank">
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="https://www.zuri.chat" target="blank">
-   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
+  <a href="https://task-tracker-react-flax.vercel.app/" target="blank">
+   <img src="https://img.shields.io/badge/Website-164C78?style=plastic" height=25>
   </a> 
       </p>
-        <p><strong>Javascript, React, Redux, RestAPIs, NodeJs, WebRTC </strong> - A platform that will power remote work in the Web3 future and make it feel as good as sitting across the desk from your friends. Remote work that still allows for those moments of serependity.</p>
+        <p><strong>Javascript, CSS3, HTML  </strong> - A fun random character generator for the show Bob's Burgers.</p>
     </td>
   </tr>
   
