@@ -74,17 +74,17 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Tic Tac Toe</h3>
+      <h3 align="center">War Card Game</h3>
       <br />
-        <a target="_blank" href="https://tic-tac-toe-eta-murex.vercel.app/">
-           <img src="https://user-images.githubusercontent.com/105895982/230780784-c9eae039-0ccb-479d-90e5-e7386224c46c.png" width="100%" alt="Tic Tac Toe"/>
+        <a target="_blank" href="https://vercel.com/aarons16/war">
+           <img src="https://user-images.githubusercontent.com/105895982/230781373-3874dded-3668-4bcc-aaa6-b3c7d486a36d.png" width="100%" alt="Tic Tac Toe"/>
         </a>
       <br />
    <p align="center">   
-   <a href="https://github.com/AaronS16/tic-tac-toe" target="_blank">
+   <a href="https://github.com/AaronS16/War" target="_blank">
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="https://tic-tac-toe-eta-murex.vercel.app/" target="blank">
+  <a href="https://vercel.com/aarons16/war" target="blank">
    <img src="https://img.shields.io/badge/Website-164C78?style=plastic" height=25>
   </a> 
       </p>
